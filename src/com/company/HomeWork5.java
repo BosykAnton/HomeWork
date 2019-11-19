@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class HomeWork5 {
     public static void main(String[] agrs) {
-        int one;
         System.out.println("Введите чило на которое хотите умножить");
         Scanner input = new Scanner(System.in);
         int number = input.nextInt();
