@@ -8,10 +8,15 @@ public class HomeWork7 {
         System.out.println("Введите число и нажмите Enter:");
         int number = scanner.nextInt();
 
+        final int A = 5;
+        final int B = 15;
+        final int C = 32;
+
+
         switch (number) {
-            case 5:
-            case 15:
-            case 32:
+            case A:
+            case B:
+            case C:
                 System.out.println("Данное значение имеется в константах");
                 break;
             default:

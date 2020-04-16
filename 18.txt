@@ -1,0 +1,8 @@
+Из предыдущих лекций вы могли узнать о FileI
+nputStream и FileOutputStream, а сегодня ученики Секрет
+ного Центра JavaRush готовятся к встрече с классами File
+Reader и FileWriter. Все эти классы
+ — адаптеры между объектом File и “
+ интерфейсами” InputStream, OutputStrea
+ m, Reader, Writer. Подробности —
+ в лекции!
