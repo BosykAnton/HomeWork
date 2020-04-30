@@ -17,6 +17,19 @@ public class HomeWork5 {
         System.out.println(number * 8);
         System.out.println(number * 9);
         System.out.println(number * 10);
+        System.out.println(number * 11);
+        System.out.println(number * 12);
+        System.out.println(number * 13);
+        System.out.println(number * 14);
+        System.out.println(number * 15);
+        System.out.println(number * 16);
+        System.out.println(number * 17);
+        System.out.println(number * 18);
+        System.out.println(number * 19);
+        System.out.println(number * 20);
+        System.out.println(number * 21);
+        System.out.println(number * 22);
+
 
 
     }
